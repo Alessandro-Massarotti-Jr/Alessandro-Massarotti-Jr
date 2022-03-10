@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou Alessandro Massarotti Junior!🐱‍👤
 
 <!--
 **Alessandro-Massarotti-Jr/Alessandro-Massarotti-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Oi, eu sou Alessandro Massarotti Junior!
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
