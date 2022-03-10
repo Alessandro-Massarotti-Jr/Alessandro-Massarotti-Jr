@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro-massarotti-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-massarotti-jr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro-massarotti-jr&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-massarotti-jr&layout=compact&langs_count=7&&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222"/>
 </div>
