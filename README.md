@@ -1,8 +1,5 @@
 ### Oi, eu sou Alessandro Massarotti Junior!🐱‍👤
 
-<img align='right' alt='GIF' width='300' height='150' src='https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif'>
-
-
 <!--
 **Alessandro-Massarotti-Jr/Alessandro-Massarotti-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
