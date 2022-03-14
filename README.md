@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <h1>Github Pages</h1> 
   <ul>
-    <li><a target="_Blank" href="https://alessandro-massarotti-jr.github.io/Pokedex-MapaDevWeek/">Pokedex MapaDevWeek</a></li>
-    <li><a target="_Blank" href="https://alessandro-massarotti-jr.github.io/Js-Calculator/">Js Calculator</a></li>
+    <li><a target="_blank" href="https://alessandro-massarotti-jr.github.io/Pokedex-MapaDevWeek/">Pokedex MapaDevWeek</a></li>
+    <li><a target="_blank" href="https://alessandro-massarotti-jr.github.io/Js-Calculator/">Js Calculator</a></li>
   </ul>
 </div>
