@@ -1,6 +1,6 @@
 <div>
-<h1 style="color:red;">Alessandro Massarotti Junior!🐱‍👤</h1>
-<p>Desenvolvedor junior</p>
+<h1>Alessandro Massarotti Junior</h1>
+<h2>Desenvolvedor junior💻</h2>
 </div>
 
 
