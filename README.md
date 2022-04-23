@@ -34,6 +34,10 @@
     <li><a href="https://alessandro-massarotti-jr.github.io/Js-Calculator/" target="_blank">Js Calculator</a></li>
     <li><a href="https://alessandro-massarotti-jr.github.io/space-tourism-multipage-site/" target="_blank">Space tourism multipage site</a></li>
   </ul>
+  <h2>Vercel</h2>
+  <ul>
+     <li><a href="https://pokedex-react-ten.vercel.app/" target="_blank">Pokedex React</a></li>
+  </ul>
 </div>
   
 ![Snake animation](https://github.com/Alessandro-Massarotti-Jr/Alessandro-Massarotti-Jr/blob/output/github-contribution-grid-snake.svg)  
