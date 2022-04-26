@@ -37,6 +37,7 @@
   <h2>Vercel</h2>
   <ul>
      <li><a href="https://pokedex-react-ten.vercel.app/" target="_blank">Pokedex React</a></li>
+     <li><a href="https://next-cats.vercel.app/" target="_blank">next Cats</a></li>
   </ul>
 </div>
   
