@@ -24,6 +24,9 @@
       <a href="https://wordpress.com/">
     <img style="height:30px; width:30px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
         </a>
+        <a href="https://reactjs.org/">
+   <img style="height:30px; width:30px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        </a>
   </div>
 
   
