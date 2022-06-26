@@ -42,6 +42,7 @@
      <li><a href="https://pokedex-react-ten.vercel.app/" target="_blank">Pokedex React</a></li>
      <li><a href="https://next-cats.vercel.app/" target="_blank">next Cats</a></li>
     <li><a href="https://nlw-return-impulse-topaz.vercel.app/" target="_blank">NLW Return</a></li>
+    <li><a href="https://iginite-lab-06-2022.vercel.app/" target="_blank">Ignite Lab 06/2022</a></li>
   </ul>
 </div>
   
