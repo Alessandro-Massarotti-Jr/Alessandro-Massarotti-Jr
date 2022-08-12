@@ -21,6 +21,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img style="height:30px; width:30px;" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </a>
+      <a href="https://www.typescriptlang.org/">
+    <img style="height:30px; width:30px;" alt="ts-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </a>
       <a href="https://wordpress.com/">
     <img style="height:30px; width:30px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
         </a>
