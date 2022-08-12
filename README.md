@@ -12,24 +12,43 @@
 </div>
 
 <div stile="display:inline-block"><br>
+
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img style="height:30px; width:30px;" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     </a>
+    
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img style="height:30px; width:30px;" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       </a>
+      
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img style="height:30px; width:30px;" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </a>
+      
       <a href="https://www.typescriptlang.org/">
     <img style="height:30px; width:30px;" alt="ts-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       </a>
+      
+       <a href="https://nodejs.dev/learn">
+    <img style="height:30px; width:30px;" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </a>
+      
+              <a href="https://reactjs.org/">
+   <img style="height:30px; width:30px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        </a>
+        
+                <a href="https://www.php.net/docs.php">
+   <img style="height:30px; width:30px;" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        </a>
+        
+                <a href="https://laravel.com/">
+   <img style="height:30px; width:30px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+        </a>
+      
       <a href="https://wordpress.com/">
     <img style="height:30px; width:30px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
         </a>
-        <a href="https://reactjs.org/">
-   <img style="height:30px; width:30px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </a>
+            
   </div>
 
   
