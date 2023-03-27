@@ -37,10 +37,7 @@
         </a>
         <a href="https://laravel.com/">
    <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-        </a>
-      <a href="https://wordpress.com/">
-    <img style="height:50px; width:50px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-        </a>       
+        </a>      
   </div>
 
   
