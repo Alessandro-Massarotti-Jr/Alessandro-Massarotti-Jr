@@ -13,10 +13,6 @@
 </div>
 
 ## Stack
-
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
-
-<div >
   
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" style="height: 20px; width: 20px;"/> HTML
@@ -50,14 +46,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel Icon" style="height: 20px; width: 20px;"/> Laravel
   </a>
 
-</div>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
 
-
-
-
-
-
-  
 <div>
   <h2>Github Pages</h2> 
   <ul>
