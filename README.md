@@ -59,5 +59,3 @@
      <li><a href="https://alessandro-massarotti-junior.vercel.app/" target="_blank">Portifolio</a></li>
   </ul>
 </div>
-  
-![Snake animation](https://github.com/Alessandro-Massarotti-Jr/Alessandro-Massarotti-Jr/blob/output/github-contribution-grid-snake.svg)  
