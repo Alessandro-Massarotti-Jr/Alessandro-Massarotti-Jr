@@ -1,10 +1,5 @@
-<div>
-  <h1>Alessandro Massarotti Junior</h1>
-<div align="center">
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300" height="300" alt="dev gif"/>
-</div>
-  <h2>Desenvolvedor junior💻</h2>
-</div>
+
+# Alessandro Massarotti Junior
 
 <div align="center">
   <a href="https://github.com/Alessandro-Massarotti-Jr">
@@ -13,6 +8,9 @@
 </div>
 
 ## Stack
+
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300" height="300" alt="dev gif"/>
+
   
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" style="height: 20px; width: 20px;"/> HTML
