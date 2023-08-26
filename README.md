@@ -11,36 +11,50 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro-massarotti-jr&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-massarotti-jr&layout=donut&langs_count=5&&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222"/>
 </div>
-    
-<div style="display:inline-block"><br>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img style="height:50px; width:50px;" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    </a>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img style="height:50px; width:50px;" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      </a>    
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img style="height:50px; width:50px;" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      </a> 
-      <a href="https://www.typescriptlang.org/">
-    <img style="height:50px; width:50px;" alt="ts-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      </a> 
-       <a href="https://nodejs.dev/learn">
-    <img style="height:50px; width:50px;" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      </a>  
-      <a href="https://reactjs.org/">
-   <img style="height:50px; width:50px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </a>
-        <a href="https://www.php.net/docs.php">
-   <img style="height:50px; width:50px;" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-        </a>
-        <a href="https://laravel.com/">
-   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-        </a>      
-  </div>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
+
+<div style="display: flex; gap: 20px;">
+<div>
+  
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" style="height: 20px; width: 20px;"/> HTML
+  </a>
+  
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" style="height: 20px; width: 20px;"/> CSS
+  </a>
+  
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="height: 20px; width: 20px;"/> JavaScript
+  </a>
+  
+- <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Icon" style="height: 20px; width: 20px;"/> TypeScript
+  </a>
+  
+- <a href="https://nodejs.dev/learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js Icon" style="height: 20px; width: 20px;"/> Node.js
+  </a>
+  
+- <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" style="height: 20px; width: 20px;"/> React
+  </a>
+  
+- <a href="https://www.php.net/docs.php">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP Icon" style="height: 20px; width: 20px;"/> PHP
+  </a>
+  
+- <a href="https://laravel.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel Icon" style="height: 20px; width: 20px;"/> Laravel
+  </a>
+
 </div>
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
+
+</div>
+
+
+
 
   
 <div>
