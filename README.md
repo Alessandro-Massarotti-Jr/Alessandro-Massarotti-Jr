@@ -9,7 +9,7 @@
 
 ## Stack
 
-<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300" height="300" alt="dev gif"/>
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250" height="250" alt="dev gif"/>
 
   
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
