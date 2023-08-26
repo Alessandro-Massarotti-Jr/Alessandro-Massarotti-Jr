@@ -2,19 +2,17 @@
   <h1>Alessandro Massarotti Junior</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300" height="300" alt="dev gif"/>
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
 </div>
   <h2>Desenvolvedor junior💻</h2>
 </div>
-
 
 <div align="center">
   <a href="https://github.com/Alessandro-Massarotti-Jr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro-massarotti-jr&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-massarotti-jr&layout=donut&langs_count=5&&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222"/>
 </div>
-
-<div stile="display:inline-block"><br>
+    
+<div style="display:inline-block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img style="height:50px; width:50px;" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     </a>
@@ -40,6 +38,9 @@
    <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
         </a>      
   </div>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
+</div>
 
   
 <div>
