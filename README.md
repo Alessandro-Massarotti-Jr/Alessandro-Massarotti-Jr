@@ -12,8 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-massarotti-jr&layout=donut&langs_count=5&&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222"/>
 </div>
 
-<div style="display: flex; gap: 20px;">
-<div>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
+
+<div >
   
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" style="height: 20px; width: 20px;"/> HTML
@@ -49,9 +50,7 @@
 
 </div>
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21eb5qmsxxlhkmrmglzuiqhyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify">
 
-</div>
 
 
 
