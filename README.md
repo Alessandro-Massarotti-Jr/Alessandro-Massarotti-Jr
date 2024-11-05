@@ -56,6 +56,7 @@
     <li><a href="https://alessandro-massarotti-jr.github.io/Js-Calculator/" target="_blank">Js Calculator</a></li>
     <li><a href="https://alessandro-massarotti-jr.github.io/space-tourism-multipage-site/" target="_blank">Space tourism multipage site</a></li>
     <li><a href="https://alessandro-massarotti-jr.github.io/Mario-game/" target="_blank">Mario Game</a></li>
+    <li><a href="https://alessandro-massarotti-jr.github.io/piano-js/" target="_blank">piano-js</a></li>
   </ul>
   <h2>Vercel</h2>
   <ul>
